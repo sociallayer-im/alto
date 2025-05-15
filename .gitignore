@@ -15,4 +15,5 @@ Alto-Bruno/
 .vscode/
 .sentryclirc
 CLAUDE.md
-src/contracts
+.idea/alto.iml
+/.idea
